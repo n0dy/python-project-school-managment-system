@@ -1,0 +1,1 @@
+# python-project-school-managment-system
