@@ -1,4 +1,4 @@
-# python-project-school-managment-system
+# Python project - School Managment System
 
 - Windows application made in C#
 - When we start application, login or registration is required for access.
